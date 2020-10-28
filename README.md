@@ -1,5 +1,5 @@
 # JobPlacementPortfolio
-Live Project 
+C# Live Project 
 ## Introduction
 For the last two weeks of my time at the tech Academy, I got to worked with my peers to build an app for local Theatre in Portland; MVC/MVVM Web Application in C#, Lambda expressions, JQuery Ajax and ASP.NET were required. It was a great learning opportunity for fixing other peers' code, Adding things to the App. The biggest problem was time we did not have enough time to be able to work on that project, but we used what we had to deliver what was needed on time. During that time I saw how good developers work with what they have to make a quality product. I worked on several back end stories that I am very proud of. Everyone on the team had a chance to work on front end and [back end stories](#back-end-stories). Over the two weeks sprint I learned a lot and gained a lot of [skills](#other-skills-learned) that I'm confident I will use again and again on future projects. 
 
